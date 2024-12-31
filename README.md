@@ -16,7 +16,7 @@ Welcome to **Using APIs LikePro**! This project demonstrates advanced techniques
 
 ## 🌍 Demo
 
-[Click here to see the live demo](#)
+[not available now](#)
 
 ---
 
