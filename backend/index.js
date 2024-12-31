@@ -79,5 +79,5 @@ app.get('/api/products', (req, res) => {
 
 
 app.listen(3000, () => {
-    console.log("server is running");
+    console.log("server is running at port 30000");
 })
