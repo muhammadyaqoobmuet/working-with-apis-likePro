@@ -71,10 +71,10 @@ app.get('/api/products', (req, res) => {
         return;
     }
 
-    setTimeout(() => {
+    
         res.send(newFilteredProducts);
         return// Send the filtered products
-    }, 3000);
+    
 });
 
 
